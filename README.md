@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">
-  Android Developer • Open Source Contributor • <a href="https://gssoc.girlscript.tech/">GSSoC'25 Contributor</a>
+  Web Developer • Open Source Contributor • <a href="https://gssoc.girlscript.tech/">GSSoC'25 Contributor</a>
 </h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 <!-- ABOUT -->
 ## 🚀 About Me
-- 🌱 Learning **Java**, **Kotlin**, and **Android SDK**  
+- 🌱 Learning **JavaScript**, **React**, and **Node.js**  
 - 💡 Passionate about **Open Source** and **GSSoC'25**  
-- ⚡ Fun fact: Gamer 🎮 | Coffee lover ☕ | Lifelong learner 📚  
-- 🎨 Love building **clean, functional Android apps**
+- ⚡ Fun fact: Coding | Coffee lover ☕ | Lifelong learner 📚  
+- 🎨 Love building **Mern Web Devlop**
 
 ---
 
